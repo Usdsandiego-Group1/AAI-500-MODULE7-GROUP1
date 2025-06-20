@@ -109,13 +109,14 @@ statsmodels
 ---
 
 ## File Structure
+```
 project-root/
 ├── Final Team Project Group 1.ipynb     # Jupyter notebook
 ├── Final Team Project Group 1.pdf       # PDF version
 ├── Medicalpremium.csv                   # Dataset
 ├── requirements.txt                     # Python dependencies
 └── README.md                            # Project documentation
-
+```
 
 ---
 
